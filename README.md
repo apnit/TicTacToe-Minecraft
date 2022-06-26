@@ -1,5 +1,5 @@
 # TicTacToe-Minecraft
-Final project of spring semester 1400. Repository of students plugin.
+Final project of spring semester 1400-1401. Repository of students plugin.
 
 ## Plugins
 No plugins yet. [Your name can be here.](#to-submit-your-plugin)
