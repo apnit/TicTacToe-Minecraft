@@ -2,7 +2,7 @@
 Final project of spring semester 1400-1401. Repository of students plugin.
 
 ## Plugins
-No plugins yet. [Your name can be here.](#to-submit-your-plugin)
+AmirAli SeyedZadegan [link](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/AmirAli_Seyedzadegan)
 
 ## To submit your plugin:
 1. Fork this repo.
