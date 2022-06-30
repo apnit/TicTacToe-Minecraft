@@ -61,6 +61,7 @@ You can also load your game by using the /load command followed by your previous
 
 I would appreciate your comments on the code. I'm an amateur programmer and open to all opinions.😊
 
+- Main repo - [MC TTT](https://github.com/L000Pz/Minecraft_TicTacToe)
 - Twitter - [@L00Pz_](https://twitter.com/L00Pz_)
 - Telegram - [@L00Pz](https://t.me/L00Pz)
 
