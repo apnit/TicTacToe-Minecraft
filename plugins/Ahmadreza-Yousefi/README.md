@@ -65,7 +65,7 @@ You can also load your game by using the /load command and the id that was given
 I'm a student (currently) in Babol Noshirvani University of Technology and there is a lot that I haven't learned and am trying to overcome these challenges!
 Feel free to comment about this repo.
 
-- Main repo - [Minecraft-TICTACTOE](https://github.com/ah-youmk/Minecraft-TICTACTOE))
+- Main repo - [Minecraft-TICTACTOE](https://github.com/ah-youmk/Minecraft-TICTACTOE)
 - Telegram - [@ahyoumk](https://t.me/ahyoumk)
 
 [Back To The Top](#TicTacToe)
