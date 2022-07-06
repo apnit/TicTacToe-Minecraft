@@ -18,7 +18,7 @@ You can access different sections from here:
 
 Here we have the source code for the actual plugin, you can change stuff in it, especially if you want to add your SQL server to store the saved games.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#TicTacToe)
 
 ---
 
@@ -26,7 +26,8 @@ Here we have the source code for the actual plugin, you can change stuff in it, 
 
 The usage is pretty easy. After you're done with the code just compile the tic tac toe class and copy the .jar file from the target folder into your plugins folder in your dedicated server folder.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#TicTacToe)
+
 ---
 
 ## How To Use
@@ -53,7 +54,7 @@ To save your game use /save command followed by any number. Just remember that t
 You can also load your game by using the /load command followed by your previously saved game number.
 
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#TicTacToe)
 
 ---
 
@@ -65,4 +66,4 @@ I would appreciate your comments on the code. I'm an amateur programmer and open
 - Twitter - [@L00Pz_](https://twitter.com/L00Pz_)
 - Telegram - [@L00Pz](https://t.me/L00Pz)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#TicTacToe)
