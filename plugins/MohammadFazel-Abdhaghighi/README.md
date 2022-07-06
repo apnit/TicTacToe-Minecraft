@@ -27,6 +27,7 @@ Here we have the source code for the actual plugin.
 The usage is pretty easy. After you're done with the code just compile the tic tac toe class and copy the .jar file from the target folder into your plugins folder in your dedicated server folder.
 
 [Back To The Top](#read-me-template)
+
 ---
 
 ## How To Use
