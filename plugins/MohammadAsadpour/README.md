@@ -12,6 +12,7 @@
 - [Installation](#installation)
 - [How To Use](#how-to-use)
 - [End Game](#end-game)
+- [Features For The Future](#features-for-the-future)
 - [Author Info](#author-info)
 
 ---
@@ -96,15 +97,15 @@ Here are some of the cool features that will be added to the plugin in near futu
 #### Database
     Currently, the game uses serialization to save the files and load games. But in the future, the game will use a database to save the games.
 
-#### No Strangers Allowed!
+#### No Strangers Allowed
     When two players are playing a game, no one else can step foot on their arena. If they do so, they will be thrown out!
   
-#### /accept & /deny when asked to continue a game
+#### Allowing /accept & /deny when asked to continue a game
     Currently, there is a problem with /load. Although in the messages, it says that you can accept or deny a /load command, when a player calls the load command, 
     the second player will be directly teleported to them, without being asked for their choice. This bug will be fixed in the near future, and the players can chose
     whether or not they want to continue an old game.
   
-#### When a players leaves and returns to the server.
+#### When a players leaves and returns to the server
     For some reason, when a player leaves the server and returns, they can no longer use the plugin commands. This bug will also be fixed in the near future.
   
 [Back To The Top](#tictactoe)
