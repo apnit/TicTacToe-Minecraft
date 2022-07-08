@@ -77,7 +77,7 @@ The plugin allows each player to see the amount of times that they won, lost, or
   
   #### If someone wins:
           1. A message will be sent to the winner and loser's screen, anouncing their outcome!
-          2. Lots of firework will be thrown in to the air, set the color of the winner!
+          2. Lots of firework will be thrown in to the air, set to the color of the winner!
           3. The arena will be destroyed, and the players can pick up the leftover material!
           4. And for the most fun, a hologram will forver mark the winner's name in the server for all to see, forever!
   #### If the game ends with a tie:
@@ -98,7 +98,11 @@ Here are some of the features that will be added to the plugin in near future:
 
 #### No Strangers Allowed
     When two players are playing a game, no one else can step foot on their arena. If they do so, they will be thrown out!
-  
+        
+#### The Winner's Gift
+    Currently, any player can pick up the leftover items after the arena is blown up. But, in a future version, it will become so that only the winner can pick up
+    the items as his winning gift. In case of a tie, both players will be allowed to pick the items up, and any other player in the server will be unable to.
+        
 #### Allowing /accept & /deny when asked to continue a game
     Currently, there is a problem with /load. Although in the messages, it says that you can /accept or /deny a load command, when a player calls the load command, 
     the second player will be directly teleported to them, without being asked for their choice. This bug will be fixed in the near future, and the players can chose
