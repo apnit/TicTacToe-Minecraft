@@ -116,6 +116,7 @@ Here are some of the cool features that will be added to the plugin in near futu
 I'm Mohammad Asadpour, a computer engineering student at the Babol Noshirvani University of Technology (BNUT or NIT). I made this plugin as the final Project of
   my Advanced Programming course. I am a beginner in the Coding World, but it has been an interesting ride so far. But, in the end, as we all know:
         
+        All beginnings are hard.
         To begin is easy; To persist is art.
 
 [Back To The Top](#tictactoe)
