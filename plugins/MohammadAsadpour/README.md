@@ -76,10 +76,10 @@ The plugin allows each player to see the amount of times that they won, lost, or
 ## End Game
   
   #### If someone wins:
-          1. Lots of firework will be thrown in to the air, set the color of the winner!
-          2. The arena will be destroyed, and the players can pick up the thrown away material!
-          3. A message will be sent to the winner and loser's screen, anouncing their outcome!
-          4. And for the most fun, a hologram will forver mark the winner's name in the server for all to see!
+          1. A message will be sent to the winner and loser's screen, anouncing their outcome!
+          2. Lots of firework will be thrown in to the air, set the color of the winner!
+          3. The arena will be destroyed, and the players can pick up the leftover material!
+          4. And for the most fun, a hologram will forver mark the winner's name in the server for all to see, foever!
   #### If the game ends with a tie:
           1. A message will be sent to both player's screen, anouncing the tie!
           2. The arena will still be destroyed here, and the players can still pickup the left material!
