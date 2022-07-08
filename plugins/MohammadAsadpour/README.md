@@ -50,7 +50,7 @@ If the plays accepts the challenge, both of you will be teleported to a game are
 #### Placing pieces (/put "number")
   
 You can place your move in two ways:
-  1. By using the command ( /put <number> ), with a number between 1 and 9
+  1. By using the command ( /put "number" ), with a number between 1 and 9
   2. By right clicking on the block of your choice
   
 By doing this, the block will change color to the color of the player.
