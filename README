@@ -1,0 +1,22 @@
+TikTokToe :
+a simple plugin for minecraft to have fun.
+Important Commands:
+1.Challenge:
+>>> with this command you can invite your friend to this challenge.
+usage >> /challenge + "the name of your friend"
+2.Accept:
+>>>you friend can accept your invitation of deny it.
+usage >> /accept + the name of the host
+3.Put:
+>>> you can put the pieces with enter the number from 1 to 9 your color in game.
+usage >> /put + number + color (Blue or Red)-->(B stand for Blue , R stand for Red)
+Save:
+>>> you can save your game and then your game code to reload it whenever you like.
+usage >> /save
+Load:
+>>> you can load your game with enter your game code.
+usage >> /load + "game code"
+
+At the End:
+I hope my explanation was complete,I have started programming for nine months so I'm amateur progarmmer,
+but I am very motivated and I hope to learn many things in this way.
