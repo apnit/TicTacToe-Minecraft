@@ -37,7 +37,7 @@ To use this plugin, copy the .jar file to the "plugins" folder of your Spigot se
 
 #### Starting the game (/challenge "anotherPlayer") -> (/accept) or (/deny)
 
-To start the game, use the command ( /challenge <anotherPlayer> ), and call another player. 
+To start the game, use the command ( /challenge "anotherPlayer" ), and call another player. 
 
         NOTE: In order to be able to call the /challenge command, your surrounding area must be empty.
         
