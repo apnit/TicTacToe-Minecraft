@@ -10,7 +10,7 @@ You can access different sections from here:
 - [Description](#description)
 - [Installation](#installation)
 - [How To Use](#how-to-use)
-- [Author Info](#author-info)
+- [Creater Info](#Creater-info)
 
 ---
 
