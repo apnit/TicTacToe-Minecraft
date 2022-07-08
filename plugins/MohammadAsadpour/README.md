@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToe Plugin
 
 > A Tic-Tac-Toe Plugin for Minecraft (Spigot)
 
