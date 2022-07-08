@@ -1,4 +1,4 @@
-# TicTacToe Plugin
+# TicTacToe
 
 > A Tic-Tac-Toe Plugin for Minecraft (Spigot)
 
@@ -20,7 +20,7 @@
 
 A Tic-Tac-Toe Plugin for Minecraft, which alows players to challenge others and play! 
 
-[Back To The Top](#TicTacToe)
+[Back To The Top](#tictactoe)
 
 ---
 
@@ -28,7 +28,7 @@ A Tic-Tac-Toe Plugin for Minecraft, which alows players to challenge others and 
 
 For using this plugin, copy the .jar file to the Plugins folder of your Spigot server (version 1.18.2), start the server, and enjoy the game!
 
-[Back To The Top](#TicTacToe)
+[Back To The Top](#tictactoe)
 
 ---
 
@@ -68,7 +68,7 @@ The plugin allows each player to see the amount of times that they won, lost, or
   2. By calling the command /scoreboard oncemore, you can hide it.
   3. By calling the command ( /scoreboard clear ), you can clear your scoreboard.
 
-[Back To The Top](#TicTacToe)
+[Back To The Top](#tictactoe)
   
 ---
 
@@ -84,7 +84,7 @@ The plugin allows each player to see the amount of times that they won, lost, or
           2. The arena will still be destroyed here, and the players can still pickup the left material!
           3. The hologram will announce that two players tied at a game, right on this spot!
   
-  [Back To The Top](#TicTacToe)
+  [Back To The Top](#tictactoe)
   
 ---
 
@@ -107,13 +107,15 @@ Here are some of the cool features that will be added to the plugin in near futu
 #### When a players leaves and returns to the server.
     For some reason, when a player leaves the server and returns, they can no longer use the plugin commands. This bug will also be fixed in the near future.
   
-[Back To The Top](#TicTacToe)
+[Back To The Top](#tictactoe)
   
 ---
 
-## Creater Info
+## Author Info
 
 I'm Mohammad Asadpour, a computer engineering student at the Babol Noshirvani University of Technology (BNUT or NIT). I made this plugin as the final Project of
-  my Advanced Programming course. I am a beginner in the Coding world, but I had lots of fun already, and I'm looking forward for the future.
+  my Advanced Programming course. I am a beginner in the Coding World, but it has been an interesting ride so far. But, in the end, as we all know:
+        
+        To begin is easy; To persist is art.
 
-[Back To The Top](#TicTacToe)
+[Back To The Top](#tictactoe)
