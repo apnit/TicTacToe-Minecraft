@@ -19,7 +19,7 @@
 
 ## Description
 
-A Tic-Tac-Toe Plugin for Minecraft, which alows players to challenge others and play! 
+A plugin for Minecraft, which allows players to challenge others and compete in the classic game of Tic-Tac-Toe!
 
 [Back To The Top](#tictactoe)
 
