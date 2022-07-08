@@ -44,7 +44,7 @@ To start the game, use the command ( /challenge "anotherPlayer" ), and call anot
 If the player is online, a message is sent to them, and they have 20 seconds to either /accept or /deny.
 If the plays accepts the challenge, both of you will be teleported to a game arena, where you will make your moves, starting with you.
   
-        NOTE: The game is designed to be able to able to handle multiple game at the save time.
+        NOTE: The game is designed to be able to handle multiple game at the save time.
               However, due to the lack of resources, this feauture is not tested yet.
 
 #### Placing pieces (/put "number")
