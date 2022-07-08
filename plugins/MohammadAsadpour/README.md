@@ -27,7 +27,7 @@ A Tic-Tac-Toe Plugin for Minecraft, which alows players to challenge others and 
 
 ## Installation
 
-For using this plugin, copy the .jar file to the Plugins folder of your Spigot server (version 1.18.2), start the server, and enjoy the game!
+To use this plugin, copy the .jar file to the "plugins" folder of your Spigot server (version 1.18.2). Then start the server, and enjoy the game!
 
 [Back To The Top](#tictactoe)
 
@@ -79,7 +79,7 @@ The plugin allows each player to see the amount of times that they won, lost, or
           1. A message will be sent to the winner and loser's screen, anouncing their outcome!
           2. Lots of firework will be thrown in to the air, set the color of the winner!
           3. The arena will be destroyed, and the players can pick up the leftover material!
-          4. And for the most fun, a hologram will forver mark the winner's name in the server for all to see, foever!
+          4. And for the most fun, a hologram will forver mark the winner's name in the server for all to see, forever!
   #### If the game ends with a tie:
           1. A message will be sent to both player's screen, anouncing the tie!
           2. The arena will still be destroyed here, and the players can still pickup the left material!
@@ -91,8 +91,7 @@ The plugin allows each player to see the amount of times that they won, lost, or
 
 ## Features For The Future
   
-Here are some of the cool features that will be added to the plugin in near future:
-  
+Here are some of the features that will be added to the plugin in near future:
     
 #### Database
     Currently, the game uses serialization to save the files and load games. But in the future, the game will use a database to save the games.
@@ -101,7 +100,7 @@ Here are some of the cool features that will be added to the plugin in near futu
     When two players are playing a game, no one else can step foot on their arena. If they do so, they will be thrown out!
   
 #### Allowing /accept & /deny when asked to continue a game
-    Currently, there is a problem with /load. Although in the messages, it says that you can accept or deny a /load command, when a player calls the load command, 
+    Currently, there is a problem with /load. Although in the messages, it says that you can /accept or /deny a load command, when a player calls the load command, 
     the second player will be directly teleported to them, without being asked for their choice. This bug will be fixed in the near future, and the players can chose
     whether or not they want to continue an old game.
   
