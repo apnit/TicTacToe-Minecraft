@@ -11,7 +11,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [How To Use](#how-to-use)
-- [End-Game](#end-game)
+- [End Game](#end-game)
 - [Author Info](#author-info)
 
 ---
