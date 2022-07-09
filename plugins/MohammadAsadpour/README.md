@@ -65,7 +65,7 @@ By doing this, the block will change color to the color of the player.
   
 ### Saving and loading a game
 
-Players can use the command /save, to save the game they are currently playing. After this, the arena will be destroyed, 
+Players can use the command `/save`, to save the game they are currently playing. After this, the arena will be destroyed, 
 and a message will annouce to the players a game name which they can use to later continue the game with the command `/load <gameName>`.
 
 ### Viewing scores using the Scoreboard
