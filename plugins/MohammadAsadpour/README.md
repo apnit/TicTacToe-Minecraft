@@ -1,17 +1,23 @@
 # TicTacToe
 
-> A Tic-Tac-Toe Plugin for Minecraft (Spigot)
+>A Tic-Tac-Toe Plugin for Minecraft (Spigot)
 
 ![photo_2022-07-08_21-34-41](https://user-images.githubusercontent.com/107719378/178038077-7ad835c2-3c77-4187-9584-fb1d85ac8f5a.jpg)
 
 ---
 
-### Table of Contents
+## Table of Contents
 
 - [Description](#description)
 - [Installation](#installation)
 - [How To Use](#how-to-use)
+    - [Starting the game](#starting-the-game)
+    - [Placing the pieces](#placing-the-pieces)
+    - [Saving & loading a game](#saving-and-loading-a-game)
+    - [Viewing scores using the Scoreboard](#viewing-scores-using-the-scoreboard)
 - [End Game](#end-game)
+    - [If someone wins](#if-someone-wins)
+    - [If the game ends with a tie](#if-the-game-ends-with-a-tie)
 - [Features For The Future](#features-for-the-future)
 - [Author Info](#author-info)
 
@@ -35,39 +41,39 @@ To use this plugin, copy the .jar file to the "plugins" folder of your Spigot se
 
 ## How To Use
 
-#### Starting the game (/challenge "anotherPlayer") -> (/accept) or (/deny)
+### Starting the game
 
-To start the game, use the command ( /challenge "anotherPlayer" ), and call another player. 
+To start a Tic-Tac-Toe game, use the command `/challenge <anotherPlayer>`, and call an online player in the server. 
 
-        NOTE: In order to be able to call the /challenge command, your surrounding area must be empty.
+        NOTE: In order to be able to call this command, your surrounding area must be empty.
         
-If the player is online, a message is sent to them, and they have 20 seconds to either /accept or /deny.
+If the player is online, a message is sent to them, and they have 20 seconds to either `/accept` or `/deny`.
 If the plays accepts the challenge, both of you will be teleported to a game arena, where you will make your moves, starting with you.
   
         NOTE: The plugin is designed to be able to handle multiple games at the same time.
               However, due to the lack of resources, this feauture is not tested yet.
 
-#### Placing pieces (/put "number")
+### Placing the pieces
   
 You can place your move in two ways:
-  1. By using the command ( /put "number" ), with a number between 1 and 9
-  2. By right clicking on the block of your choice
+  - By using the command `/put <number>`, with a number between 1 and 9
+  - By right clicking on the block of your choice
   
 By doing this, the block will change color to the color of the player.
-  1. The player who started the game will be RED.
-  2. The player who was challenged will be BLUE.
+  - The player who started the game will be RED.
+  - The player who was challenged will be BLUE.
   
-#### Saving a game & Loading in the future (/save) & (/load "gameName")
+### Saving and loading a game
 
 Players can use the command /save, to save the game they are currently playing. After this, the arena will be destroyed, 
-and a message will annouce to the players a game name which they can use to later continue the game with the command ( /load "gameName" ).
+and a message will annouce to the players a game name which they can use to later continue the game with the command `/load <gameName>`.
 
-#### Viewing scores using Scoreboard (/scoreboard) & (/scoreboard clear)
+### Viewing scores using the Scoreboard
 
 The plugin allows each player to see the amount of times that they won, lost, or tied with another player.
-  1. By calling the command /scoreboard, you can view your own.
-  2. By calling the command /scoreboard oncemore, you can hide it.
-  3. By calling the command ( /scoreboard clear ), you can clear your scoreboard.
+  - By calling the command `/scoreboard`, you can view your own.
+  - By calling the command `/scoreboard` oncemore, you can hide it.
+  - By calling the command `/scoreboard clear`, you can clear your scoreboard.
 
 [Back To The Top](#tictactoe)
   
@@ -76,14 +82,14 @@ The plugin allows each player to see the amount of times that they won, lost, or
 ## End Game
   
   #### If someone wins:
-          1. A message will be sent to the winner and loser's screen, anouncing their outcome!
-          2. Lots of firework will be thrown in to the air, set to the color of the winner!
-          3. The arena will be destroyed, and the players can pick up the leftover material!
-          4. And for the most fun, a hologram will forver mark the winner's name in the server for all to see, forever!
+          - A message will be sent to the winner and loser's screen, anouncing their outcome!
+          - Lots of firework will be thrown in to the air, set to the color of the winner!
+          - The arena will be destroyed, and the players can pick up the leftover material!
+          - And for the most fun, a hologram will forver mark the winner's name in the server for all to see, forever!
   #### If the game ends with a tie:
-          1. A message will be sent to both player's screen, anouncing the tie!
-          2. The arena will still be destroyed here, and the players can still pickup the left material!
-          3. The hologram will announce that two players tied at a game, right on this spot!
+          - A message will be sent to both player's screen, anouncing the tie!
+          - The arena will still be destroyed here, and the players can still pickup the left material!
+          - The hologram will announce that two players tied at a game, right on this spot!
   
   [Back To The Top](#tictactoe)
   
@@ -103,8 +109,8 @@ Here are some of the features that will be added to the plugin in near future:
     Currently, any player can pick up the leftover items after the arena is blown up. But, in a future version, it will become so that only the winner can pick up
     the items as his winning gift. In case of a tie, both players will be allowed to pick the items up, and any other player in the server will be unable to.
         
-#### Allowing /accept & /deny when asked to continue a game
-    Currently, there is a problem with /load. Although in the messages, it says that you can /accept or /deny a load command, when a player calls the load command, 
+#### Allowing `/accept` & `/deny` when asked to continue a game
+    Currently, there is a problem with `/load <gameName>`. Although in the messages, it says that you can `/accept` or `/deny` a load command, when a player calls the load command, 
     the second player will be directly teleported to them, without being asked for their choice. This bug will be fixed in the near future, and the players can chose
     whether or not they want to continue an old game.
   
