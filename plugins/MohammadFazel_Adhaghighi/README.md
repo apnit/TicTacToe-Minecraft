@@ -61,7 +61,7 @@ You can also load your game by using the /load command followed by your previous
 
 This was my first experience of creating a plugin and i would appreciate any comments about it so feel free to tell me my mistakes!
 
-- Main repo - [MC-TicTacToe](https://github.com/FazelHaghighi/TicTacToe-Minecraft)
-- Telegram - [@pingpongplayer](https://t.me/pingpongplayer)
+- Main repo : [MC-TicTacToe](https://github.com/FazelHaghighi/TicTacToe-Minecraft)
+- Telegram : [@pingpongplayer](https://t.me/pingpongplayer)
 
 [Back To The Top](#read-me-template)
