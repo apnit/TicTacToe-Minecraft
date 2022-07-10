@@ -91,6 +91,10 @@ The plugin allows each player to see the amount of times that they won, lost, or
           - The arena will still be destroyed here, and the players can still pickup the left material!
           - The hologram will announce that two players tied at a game, right on this spot!
   
+
+https://user-images.githubusercontent.com/107719378/178147908-facce886-d483-4525-bc41-8ee3c52d7a31.mp4
+
+
   [Back To The Top](#tictactoe)
   
 ---
