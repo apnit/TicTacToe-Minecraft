@@ -61,6 +61,7 @@ You can also load your game by using the /load command followed by your previous
 My name is Amirali Norouzpour A.K.A NRP. I'm a student (currently) in Babol Noshirvani University of Technology.
 Trying to learn more every day :)
 
+- Main repo - [TicTacToe-MinecraftPlugin](https://github.com/Amirali-Nrp/TicTacToe-MinecraftPlugin)
 - Telegram - [@xNRPx](https://t.me/xNRPx)
 
 [Back To The Top](#TicTacToe)
