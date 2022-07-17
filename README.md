@@ -9,7 +9,7 @@ Final project of spring semester 1400-1401. Repository of students plugin.
 5. [Morteza Pourramezan - 40030112027](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Morteza-Pourramzan)
 6. [Amirali Norouzpour - 40030112122](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Amirali_Norouzpour)
 7. [Hasti Homayooni - 40030112124](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Hasti_Homayooni)
-8. ...
+8. [Amirhossein Najafi - 40030212084](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Amir-Najafi)
 
 ## To submit your plugin:
 1. Fork this repo.
