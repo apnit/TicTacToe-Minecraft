@@ -13,6 +13,7 @@ Final project of spring semester 1400-1401. Repository of students plugin.
 9. [Erfan Zamirpour - 40030112067](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/ErfanZamirpour)
 10. [MohammadFazel Adhaghighi - 40030212049](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/MohammadFazel_Adhaghighi)
 11. [MohammadAsadpour - 40030112122](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/MohammadAsadpour)
+12. [MaryamEhyaee - 40030112005](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/MaryamEhyaee)
 
 ## To submit your plugin:
 1. Fork this repo.
