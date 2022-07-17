@@ -17,6 +17,7 @@ You can access different sections from here:
 ## Description
 
 You can play TicTacToe in minecraft with this plugin!
+Here we have the source code for the actual plugin, you can change stuff in it, you have to put your save path in code instead of mine.
 
 [Back To The Top](#TicTacToe)
 
