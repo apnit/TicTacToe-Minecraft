@@ -18,6 +18,7 @@ Final project of spring semester 1400-1401. Repository of students plugin.
 14. [Seyed Abbas Mossavi Asl - 40030712002](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/SeyedAbbasMossaviAsl)
 16. [Niousha Maghsoudnia - 40030112104](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Niousha-Maghsoudnia)
 17. [Sepehr Naeij - 40030112119](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Sepehr_Naeij)
+18. [Kimia Khaani - 40030112041](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Kimia_Khaani)
 
 ## To submit your plugin:
 1. Fork this repo.
