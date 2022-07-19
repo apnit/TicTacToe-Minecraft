@@ -1,6 +1,9 @@
 # TicTacToe-Minecraft
 Final project of spring semester 1400-1401. Repository of students plugin.
 
+![Animation3](https://user-images.githubusercontent.com/35873101/179856231-478b89a1-ba05-40a6-aa00-f504bdd07b64.gif)
+
+
 ## Plugins
 1. [Amirali Seyedzadegan - 40030212040](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/AmirAli_Seyedzadegan)
 2. [Arman Gholizadeh - 40030112086](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/ArmanGholizadeh)
